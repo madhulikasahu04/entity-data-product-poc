@@ -1,0 +1,6 @@
+entity_id,source,transform,target,run_ts
+101,data/raw/entities.csv,standardise+derive_region+flag_critical_missing,data/processed/entities_curated.csv,2025-08-16T12:00:00+00:00
+102,data/raw/entities.csv,standardise+derive_region+flag_critical_missing,data/processed/entities_curated.csv,2025-08-16T12:00:00+00:00
+103,data/raw/entities.csv,standardise+derive_region+flag_critical_missing,data/processed/entities_curated.csv,2025-08-16T12:00:00+00:00
+104,data/raw/entities.csv,standardise+derive_region+flag_critical_missing,data/processed/entities_curated.csv,2025-08-16T12:00:00+00:00
+105,data/raw/entities.csv,standardise+derive_region+flag_critical_missing,data/processed/entities_curated.csv,2025-08-16T12:00:00+00:00
