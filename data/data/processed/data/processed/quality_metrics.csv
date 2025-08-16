@@ -1,0 +1,2 @@
+metric_ts,records_total,completeness_pct,linkage_quality_pct,freshness_max_age_days
+2025-08-16T12:00:00+00:00,5,80.0,80.0,6
