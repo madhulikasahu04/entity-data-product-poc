@@ -1,0 +1,6 @@
+entity_id,legal_name,lei,country,ingestion_ts,source_system,data_steward,pii_flag
+101,Aquila Capital Ltd,5493001KJTIIGC8Y1R12,GB,2025-08-12T10:00:00Z,CRM,ops_uk,0
+102,Borealis Fund PLC,,IE,2025-08-13T10:00:00Z,CRM,ops_ie,0
+103,Celsis Partners LLP,213800D1EI4GTV7D9H21,GB,2025-08-13T10:05:00Z,KYC,kyc_team,0
+104,,213800XYZNULL0000000,GB,2025-08-10T09:55:00Z,KYC,kyc_team,0
+105,Epsilon Holdings Inc,529900ABCDEFGH123456,,2025-08-11T22:30:00Z,CRM,ops_uk,0
