@@ -92,8 +92,18 @@ Later, replace stubs:
 
 ---
 
-## 📈 Screens
-- Streamlit dashboard displays lineage summary + quality metrics.
-- Power BI/Tableau can be connected to `data/processed/*.csv` as an alternative.
+## Screens
+
+<p align="center">
+  <img src="assets/01_dashboard.png" alt="Dashboard overview" width="900">
+</p>
+
+### Detail Views
+<p align="center">
+  <img src="assets/02_lineage.png" alt="Lineage table" width="900">
+</p>
+<p align="center">
+  <img src="assets/03_quality_json.png" alt="Quality endpoint JSON" width="900">
+</p>
 ```
 
